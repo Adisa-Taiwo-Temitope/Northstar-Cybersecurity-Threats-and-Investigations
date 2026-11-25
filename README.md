@@ -195,7 +195,6 @@ The work demonstrates my ability to translate business questions into SQL analys
 | Project | Cybersecurity Log Analysis & Threat Investigation |
 | Case organisation | Northstar Services (fictional) |
 | Role | Junior SQL Data Analyst |
-| Training provider | Tech Studio Academy |
 | Database | MySQL |
 | Duration | 3 weeks |
 
