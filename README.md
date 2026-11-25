@@ -1,7 +1,4 @@
 # Northstar-Cybersecurity-Threats-and-Investigations
-
-**SQL Portfolio Project** · **MySQL** · **Tech Studio Academy — Group A** · **3 weeks**
-
 ---
 
 ## 1. Project at a Glance
@@ -199,7 +196,6 @@ The work demonstrates my ability to translate business questions into SQL analys
 | Case organisation | Northstar Services (fictional) |
 | Role | Junior SQL Data Analyst |
 | Training provider | Tech Studio Academy |
-| Group | Group A |
 | Database | MySQL |
 | Duration | 3 weeks |
 
