@@ -18,7 +18,6 @@
 
 Use SQL to investigate security records, identify unusual login and alert patterns, and provide management with evidence-based areas for further review.
 
-> **Important:** The project investigates indicators and patterns. It does not assume that a cyberattack or account compromise has occurred.
 
 ## 2. Database Overview
 
